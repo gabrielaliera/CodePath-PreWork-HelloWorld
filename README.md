@@ -22,10 +22,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src= 'walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= 'walkthrough.gif' title='Video Walkthrough' width="300" height="550" alt='Video Walkthrough' />
 
 Here is an update with new custom colors:
-<img src= 'walkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src= 'walkthrough2.gif' title='Video Walkthrough' width="300" height="550" alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LICEcap](https://www.cockos.com/licecap/).  
