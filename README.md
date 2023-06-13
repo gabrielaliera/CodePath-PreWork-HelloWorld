@@ -16,13 +16,16 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Added and updated colors and themes
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
 <img src= 'walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Here is an update with new custom colors:
+<img src= 'walkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LICEcap](https://www.cockos.com/licecap/).  
@@ -32,8 +35,7 @@ GIF created with [LICEcap](https://www.cockos.com/licecap/).
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+During the development of this app, I faced challenges related to color customization and gaining a clear understanding of the difference between primary color and primary color variant.
 
 ## License
 
